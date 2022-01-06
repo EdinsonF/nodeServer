@@ -1,0 +1,19 @@
+{
+  "name": "servernode",
+  "version": "1.0.0",
+  "description": "server redirected",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/EdinsonF/nodeServer.git"
+  },
+  "author": "Edinson Figueroa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdinsonF/nodeServer/issues"
+  },
+  "homepage": "https://github.com/EdinsonF/nodeServer#readme"
+}
